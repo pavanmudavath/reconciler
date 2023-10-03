@@ -1,5 +1,5 @@
 # reconciler
- "Reconsiler serves as a foundational attempt to emulate React's fundamental behavior. It enhances comprehension of underlying DOM operations and illustrates React's approach to state updates."
+ "reconciler serves as a foundational attempt to emulate React's fundamental behavior. It enhances comprehension of underlying DOM operations and illustrates React's approach to state updates."
  /**
  * ----------------------------------------
  * Below code shows the usage of class and its functions
