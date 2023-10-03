@@ -1,0 +1,47 @@
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+#mainArea {
+    width: 60%;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2);
+}
+
+/* Each todo item styling */
+#mainArea > div {
+    border: 1px solid #e0e0e0;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #fafafa;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+#mainArea > div:hover {
+    background-color: #f0f0f0;
+}
+
+label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+button {
+    background-color: #ff4d4d;
+    color: #fff;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #e33c3c;
+}
