@@ -4,13 +4,4 @@
  * ----------------------------------------
  * Below code shows the usage of class and its functions
  * below is the samplecase where state got updated after 3 sec
- */
-
-```
-let reconsile = new MakeState(state)
-
-reconsile.init(howUserwantToAppendMyStateToHtml)
-
-setTimeout(()=>{
-    reconsile.updateState(updatedState)
-}, 3000)
+   */
